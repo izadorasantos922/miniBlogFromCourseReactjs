@@ -32,3 +32,40 @@ This project is a mini blog built during a React course, utilizing React for the
 - React
 - Firebase
 - JavaScript
+
+---
+
+# Mini Blog com React e Firebase
+
+Este projeto é um mini blog construído durante um curso de React, utilizando React no frontend e Firebase no backend. Ele demonstra como criar uma plataforma simples de blog onde os usuários podem adicionar, editar e excluir posts.
+
+## Instalação
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/izadorasantos922/miniBlogFromCourseReactjs.git
+    ```
+
+2. Instale as dependências necessárias:
+    ```bash
+    npm install
+    ```
+
+3. Execute o aplicativo:
+    ```bash
+    npm start
+    ```
+
+4. O aplicativo estará disponível em `http://localhost:3000`.
+
+## Funcionalidades
+
+- Frontend em React
+- Backend com Firebase para armazenar e gerenciar posts de blog
+- Funcionalidade CRUD para posts de blog
+
+## Tecnologias Utilizadas
+
+- React
+- Firebase
+- JavaScript
